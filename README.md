@@ -1,2 +1,2 @@
 # quote-generator
-Run script with AWS with Next.JS
+Run script in AWS with Next.JS
